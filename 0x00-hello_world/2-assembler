@@ -1,0 +1,4 @@
+#!/bin/bash
+gcc -s *.c >  CFILE && tr *.c *.s
+
+
