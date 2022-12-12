@@ -1,0 +1,3 @@
+#!/bin/bash
+cat CFILE |  tr *.o *.c
+gcc *.c
