@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+"main.c"
+
+int main(void)
+
+{
+   char $CFIlE = 
+
+   printf("gcc %s.c > c",$CFILE)
+
+ return (0);
+ 
+}

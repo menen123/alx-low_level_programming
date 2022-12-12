@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main()
+
+{
+   char CFILE =
+   printf("gcc %s.c > C",CFILE);
+   
+return (0);
+ 
+}
