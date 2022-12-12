@@ -1,0 +1,4 @@
+#!/bin/bash
+gcc *c
+touch cisfun && cp  $(#!/bin/bash) cisfun
+    
