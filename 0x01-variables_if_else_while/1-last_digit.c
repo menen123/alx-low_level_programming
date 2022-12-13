@@ -1,0 +1,26 @@
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
+int main()
+{
+  int n ,lastDigit;
+srand(time(0));
+ n = rand() - RAND_MAX / 2 ;
+printf("n");
+scanf("%d", &n);
+lastDigit = n% 10;
+ printf("last digit = %d",lastDigit);
+if (lastDigit > 5)
+{
+  printf("last digit of n is %d and is greater than 5",lastDigit);
+}
+ else if ( "%d" == 0)
+{
+  printf("last digit of n is 0");
+ }
+ else if( lastDigit < 6)
+{
+  printf("last digit of n is %d and is less than 6 and not 0",lastDigit);
+ }
+  return (0);
+}
