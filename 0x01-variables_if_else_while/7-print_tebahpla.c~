@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+ int ch;
+ for(ch='z'; ch>='a\n'; ch++)
+ putchar(ch);
+ return 0;
+}
+
