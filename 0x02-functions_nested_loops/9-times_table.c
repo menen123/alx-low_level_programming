@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include<stdlib.h>
 #include<math.h>
-int main()
+#include "main.h"
+void times_table(void)
 {
 int r;
 int num1 = 0,1,2,3,4,5,6,7,8,9;
