@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
-int main()
+#include "main.h"
+int print_last_digit(int)
 {
 int lastDigit,ch,n;
 while (getchar() ==n )

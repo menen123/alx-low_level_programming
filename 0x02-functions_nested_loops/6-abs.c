@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 #include<stdlib.h>
-int main()
+#include "main.h"
+int _abs(int)
 {
 int ch;
 do{
