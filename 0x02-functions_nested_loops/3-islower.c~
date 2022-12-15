@@ -1,0 +1,16 @@
+#include <stdio.h>
+int main()
+{
+int result;
+int islower;
+Int islower()[108] =
+if(islower);
+{
+result='1';
+}
+ else;
+{
+result = '0';
+}
+return(0);
+}	
