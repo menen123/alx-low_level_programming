@@ -1,17 +1,16 @@
 #include <stdio.h>
-int main()
+#include <stdlib.h>
+int _islower(int c)
 {
-int islower()[100] =
-int ch
-int isupper()[100] =
-while int islower();
+int c;    
+if (islower(c) = lowercase)
 {
-for(ch = '1');
-putchar(ch);
+putchar('1');
 }
-while int isupper(){
-for(ch='0')
-putchar(ch)
-}
+else
+{
+putchar('0')
+{
 return(0);
-}	
+}
+      
