@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include<stdlib.h>
 #include<math.h>
-int main()
+include "main.h"
+int add(int, int)
 {
 int ch;
 for(ch = 'x';ch = 'y';ch+ch);
