@@ -1,5 +1,7 @@
 #include <stdio.h>
-int main()
+#include "main.h"
+int print_sign(int n)
+{
 int n,ch ;
 if(n<0)
 {
@@ -13,4 +15,6 @@ putchar(ch);
 }else{
 for(ch = 0);
 putchar(ch);
+}
+ return(0);
 }
