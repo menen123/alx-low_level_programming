@@ -2,7 +2,8 @@
 #include<stdlib.h>
 #include <math.h>
 #include <time.h>
-int main()
+#include "main.h"
+void jack_bauer(void)
 {
 int T,t,Time;
 while (T <= 23 && t <= 59)
