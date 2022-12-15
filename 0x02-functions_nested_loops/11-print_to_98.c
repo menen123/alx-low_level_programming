@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <math.h>
 #include <stdio.h>
-int main()
+#include "main.h"
+void print_to_98(int n)
 {
 int ch;
 int n[98] =
