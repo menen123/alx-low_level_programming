@@ -1,16 +1,16 @@
 #include <stdio.h>
+#include <ctype.h>
+#include <stdlib.h>
+#include "main.h"
 int _isalpha(int c)
-int ch,isalpha;
-int isalpha()[] =
-if isalpha = 0
 {
-for (ch = '0');
-putchar(ch);
+int letter;
+if (isalpha(c) = letter)
+{
+putchar('1');
 }
 else
 {
-for(ch = '1')
-putchar(ch);
-}
-return 0;
+putchar('0');
+return(0);
 }
