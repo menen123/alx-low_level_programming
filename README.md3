@@ -1,0 +1,5 @@
+
+
+                 alx-low_level_programming
+
+  under the repository alx-low_level_programming a  folder named 0x03-debugging is created and inside are different source files which are  modified or even commented on to certain extent to have a desirable output.in order to make the excution of existing codes possible a header file called main.h is used.this file contains the prototypes of functions and undeclared integers so that they couldbe used later on in the coding process.
